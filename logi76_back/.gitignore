@@ -1,0 +1,16 @@
+HELP.md
+.gradle
+build/
+gradle/
+bin/
+src/main/resources/lib
+
+### STS ###
+.classpath
+.project
+.springBeans
+
+### IntelliJ IDEA ###
+.idea
+
+
